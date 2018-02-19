@@ -1,0 +1,23 @@
+
+body {
+    background-color: linen;
+    text-align: center;
+    background-image: url("twit1.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100%;
+
+}
+
+h1 {
+    color: whitesmoke;
+
+}
+
+li {
+    margin-left: 150px;
+    text-align-all: justify;
+    font-family: 'Consolas', 'Deja Vu Sans Mono', 'Bitstream Vera Sans Mono', monospace;
+    font-size: larger;
+}
